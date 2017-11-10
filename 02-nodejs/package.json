@@ -1,0 +1,20 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "Service de récupération de données",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node console.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjamin-Lasseur/formation-frontend.git"
+  },
+  "author": "Benjamin Lasseur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benjamin-Lasseur/formation-frontend/issues"
+  },
+  "homepage": "https://github.com/Benjamin-Lasseur/formation-frontend#readme"
+}
